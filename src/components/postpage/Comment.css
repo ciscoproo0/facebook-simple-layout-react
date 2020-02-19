@@ -1,0 +1,25 @@
+#comment-img{
+    margin-left: 30px;
+}
+
+#comment-img img {
+    float: left;
+    border-radius: 50%;
+    width: 40px;
+    height: 40px;
+    margin-top: 15px;
+}
+
+#comment-content{
+    background: #ececec;
+    border-radius: 15px;
+    margin-top: 18px;
+    margin-left: 90px;
+    margin-right: 20px;
+    padding-top: 10px;
+    padding-left: 10px;
+    padding-right: 10px;
+    padding-bottom: 10px;
+    font-size: 14px;
+    color: #414141;
+}

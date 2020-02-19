@@ -1,0 +1,22 @@
+header{
+  display: flex;
+  align-items: center;
+  background-color: #3b5998;
+  height: 50px;
+  justify-content: space-between;
+  position: fixed;
+  width: 100%;
+  top: 0;
+}
+
+#home {
+    font-weight: bold;
+  }
+
+  header a {
+    color:#ffffff;
+    padding: 14px 16px;
+    text-decoration: none;
+  }
+
+
