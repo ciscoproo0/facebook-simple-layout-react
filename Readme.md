@@ -22,10 +22,10 @@ Here is an image from project, highlighting components used in this implementati
 clone the project and run using Yarn:
 
 Download all dependencies: 
-> Yarn 
+> yarn 
 
 Run the project
-> Yarn dev 
+> yarn dev 
 
 or NPM
 
