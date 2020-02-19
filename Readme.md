@@ -4,10 +4,10 @@
 #### A simple interface to practice ReactJS skills.
 
 - App
-    Header
-    PostList
-    - Post
-        - Comments
+    - Header
+    - PostList
+        - Post
+            - Comments
 
 Here is an image from project, highlighting components used in this implementation:
 
