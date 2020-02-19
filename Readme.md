@@ -22,19 +22,24 @@ Here is an image from project, highlighting components used in this implementati
 clone the project and run using Yarn:
 
 Download all dependencies: 
-> yarn 
 
+```bash
+yarn 
+```
 Run the project
-> yarn dev 
-
+```bash
+yarn dev 
+```
 or NPM
 
 Download all dependencies
-> npm install
-
+```bash
+npm install
+```
 Run the project
-
->npm run dev
+```bash
+npm run dev
+```
 
 ---
 
